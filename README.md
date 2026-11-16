@@ -1,4 +1,4 @@
-# Trabalho Prático: Fundamentos de Programação
+# Trabalho Prático: Fundamentos de Programação - Sistema de Reserva Sala de cinema.
 
 Repositório criado para a atividade prática da disciplina Fundamentos de Programação.
 
